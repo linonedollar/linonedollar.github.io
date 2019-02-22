@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-tw"
-title                    : "萬達樂"
+title                    : "onedollar"
 title_separator          : "-"
-name                     : "林一元"
-description              : "個人筆記"
+name                     : "Linonedollar"
+description              : "note"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
